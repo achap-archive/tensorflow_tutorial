@@ -43,7 +43,6 @@ predictions = linear.predict(x_test)  # predict outputs for test inputs
 # for p in range(len(predictions)):
     # print(predictions[p], x_test[p], y_test[p])
 
-
 # Begin plotting
 p = 'freetime'
 style.use('ggplot')
